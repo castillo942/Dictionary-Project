@@ -1,2 +1,2 @@
 # Dictionary-Project
-Dictionary for Senior Citizen Data
+Simple Dictionary for Senior Citizen Data
